@@ -1,4 +1,4 @@
-# Rajasthan Hackathon
+# Hackathon
 In the age of digitalization and the internet, technology is advancing at an unprecedented rate. As a result, students are facing new challenges that require innovative solutions to address them. The team behind our project has identified several problems that students are grappling with, and we are determined to tackle them head-on.
 
 One of the issues we came across was highlighted by Hitesh Chowdary, a software developer, in one of his Instagram reels. Hitesh spoke about how YouTube's recommendation algorithm can be a major distraction for developers, leading to a loss of motivation. Another idea he proposed was to create a feature that allows videos to be automatically dubbed into multiple languages, making them accessible to viewers worldwide. These are the types of problems that our project aims to solve.
