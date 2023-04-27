@@ -10,6 +10,9 @@ Another problem that we identified was the issue of cheating in online exams. Ak
 Overall, our project is aimed at addressing the problems faced by students in the digital age. We are excited to develop innovative solutions that make learning and education more accessible, efficient, and enjoyable for everyone. By working together, we can create a brighter future for students everywhere.
 ***NOTE that extension needs multiple reloads and time to function properly***
 
+
+## 👉 LIVE DEMO:  https://vidyut.netlify.app/
+
 ## 🎁 Presentation ----> https://www.canva.com/design/DAFcDAyzF7w/13V_h7Dh7j_qOaOvvRy-oA/watch?utm_content=DAFcDAyzF7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 📷 Video ----> https://www.youtube.com/watch?v=IW7n_jTxMuI
@@ -96,8 +99,8 @@ Go to the project directory
     - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAv1QdzDgV6MjA60CRtfkIg)
 
 ## Our Team 
-1) Akash Srinivasan ----> Developed Home Page, Quizzo, Contributed To Focus Extension and Youtube Translator & Dictionary Extension (Designed in Figma), Developed ReadMe.md
-2) Indratej Reddy   ----> Developed Focus Mate and Youtube Translator & Dictionary Extension, Developed Research Document
-3) AJ Jagadish      ----> Developed Choose Your Laptop Extension, Integrated Twak and Email.js, Contributed To ReadMe.md
-4) Shashank Singh   ----> Alloted Work Via Excali Draw, Maintained Discipline In Team 
-5) Rakshit Koyani   ----> Developed Parts Of Home Page
+1) Akash Srinivasan ----> Developed Home Page, Quizzo, Contributed To Focus Extension and Youtube Translator & Dictionary Extension (Designed in Figma), Developed  ReadMe.md, developer choose your laptop, integrated chatbot (twak)
+2) Indratej Reddy   ----> Developed Focus Mate and Youtube Translator & Dictionary Extension, Developed PPT, Gave suggestions in design and helped in brainstroming
+3) AJ Jagadish      ----> Integrated Email.js
+4) Shashank Singh   ----> Created Mobile Navbar
+5) Rakshit Koyani   ----> Developed Google Forms
